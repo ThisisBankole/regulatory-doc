@@ -2,5 +2,5 @@
 
 The code for Arik Air due deligence document
 
-![] (img/arik.png)
+![](img/arik.png)
 
