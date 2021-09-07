@@ -1,2 +1,5 @@
-# regulatory-doc
-https://res.cloudinary.com/dvxeblbzz/image/upload/v1631011443/Screen_Shot_2021-09-07_at_11.43.00_AM_j1bqba.png
+# Arik-Due-Deligence
+
+The code for Arik Air due deligence document
+
+(https://res.cloudinary.com/dvxeblbzz/image/upload/v1631012155/Screen_Shot_2021-09-07_at_11.50.13_AM_eznnaa.png)
